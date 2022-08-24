@@ -8,7 +8,7 @@ git clone https://github.com/Clouza/battle-ships.git
 ``` 
 
 ## Configuration
-You can change the [configuration](https://github.com/Clouza/battle-ships/blob/master/src/com/clouza/battleships/Configuration.java) file.
+You can change the [configuration](https://github.com/Clouza/battle-ships/blob/master/src/net/clouza/battleships/Configuration.java) file.
 ### Details
 | Type | Name | Value | Description |
 | ----------- | ----------- | ----------- | ----------- |
