@@ -1,4 +1,4 @@
-package com.clouza.battleships;
+package net.clouza.battleships;
 
 /**
  * @author Clouza (Siwa)

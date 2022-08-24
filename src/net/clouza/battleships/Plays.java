@@ -1,9 +1,9 @@
-package com.clouza.battleships;
+package net.clouza.battleships;
 
-import com.clouza.battleships.resources.Guess;
-import com.clouza.battleships.resources.Ships;
-import com.clouza.battleships.resources.Maps.Ocean;
-import com.clouza.battleships.resources.Colors;
+import net.clouza.battleships.resources.Guess;
+import net.clouza.battleships.resources.Ships;
+import net.clouza.battleships.resources.Maps.Ocean;
+import net.clouza.battleships.resources.Colors;
 
 /**
  * @author Clouza (Siwa)

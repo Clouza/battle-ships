@@ -1,6 +1,6 @@
-package com.clouza.battleships.resources;
+package net.clouza.battleships.resources;
 
-import com.clouza.battleships.Configuration;
+import net.clouza.battleships.Configuration;
 
 /**
  * @author Clouza (Siwa)
